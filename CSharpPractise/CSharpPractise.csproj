@@ -43,11 +43,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Examples\Interfaces\ITestInterface.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Examples\AbstractClass\" />
+    <Folder Include="Examples\Collections\Generic\" />
+    <Folder Include="Examples\Collections\NonGeneric\" />
+    <Folder Include="Examples\DelegatesAndEvents\" />
+    <Folder Include="Examples\Linq\" />
+    <Folder Include="Examples\Oops\Abstraction\" />
+    <Folder Include="Examples\Oops\Encapsulation\" />
+    <Folder Include="Examples\Oops\Inheritence\" />
+    <Folder Include="Examples\Oops\Polymorphism\CompileTime\" />
+    <Folder Include="Examples\Oops\Polymorphism\RunTime\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

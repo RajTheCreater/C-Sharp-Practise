@@ -51,4 +51,5 @@ Thumbs.db
 /CSharpPractise/.vs/CSharpPractise/CopilotIndices/17.14.794.21998
 /CSharpPractise/.vs/CSharpPractise/FileContentIndex
 /CSharpPractise/.vs
-/CSharpPractise
+/CSharpPractise/bin/Debug
+/CSharpPractise/obj/Debug

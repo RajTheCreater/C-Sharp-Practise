@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpConcepts.KeywordsDifference
+namespace CSharpPractise.KeywordsDifference
 {
     public class ReffTest
     {

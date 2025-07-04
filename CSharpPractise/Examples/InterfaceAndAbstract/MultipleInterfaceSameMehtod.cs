@@ -2,7 +2,7 @@
 
 
 
-namespace CSharpConcepts.InterfaceAndAbstract
+namespace CSharpPractise.InterfaceAndAbstract
 {
     interface ICalculate1
     {
@@ -34,7 +34,7 @@ namespace CSharpConcepts.InterfaceAndAbstract
     }
 }
 
-//namespace CSharpConcepts.InterfaceAndAbstract
+//namespace CSharpPractise.InterfaceAndAbstract
 //{
 //    interface ILoanCustomer
 //    {

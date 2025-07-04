@@ -2,9 +2,9 @@
 // a given value
 using System;
 
-namespace CSharpConcepts.CodingTest
+namespace CSharpPractise.CodingTest
 {
-   public class ClosestElementsToGivenValue
+    public class ClosestElementsToGivenValue
     {
 
         /* Function to find the cross over point

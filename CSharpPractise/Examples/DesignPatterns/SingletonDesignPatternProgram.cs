@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpConcepts.DesignPatterns.Singleton
+namespace CSharpPractise.DesignPatterns.Singleton
 {
     public class SingletonDesignPatternProgram
     {

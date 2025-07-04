@@ -1,4 +1,4 @@
-﻿namespace CSharpConcepts.Polymorphism.RunTime
+﻿namespace CSharpPractise.Polymorphism.RunTime
 {
     public class TestMultipleOverrideParent
     {

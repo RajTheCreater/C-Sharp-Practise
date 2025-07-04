@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CSharpPractise.Examples.InterviewPractise
 {
@@ -18,7 +16,7 @@ namespace CSharpPractise.Examples.InterviewPractise
             {
                 lst.Add(GetMaxOccuranceFromString(charector, input));
             }
-            result =  lst.OrderByDescending(e=>e.Value).FirstOrDefault();
+            result = lst.OrderByDescending(e => e.Value).FirstOrDefault();
             Console.WriteLine(result);
             return result;
         }

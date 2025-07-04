@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpConcepts.InterfaceAndAbstract
+namespace CSharpPractise.InterfaceAndAbstract
 {
     interface ISimpleCalculator
     {

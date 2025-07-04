@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CSharpConcepts.DesignPatterns.Singleton
+namespace CSharpPractise.DesignPatterns.Singleton
 {
     public class LoadBalancer
     {

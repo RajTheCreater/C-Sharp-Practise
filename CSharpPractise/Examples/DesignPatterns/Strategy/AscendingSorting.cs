@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpConcepts.DesignPatterns.Strategy
+namespace CSharpPractise.DesignPatterns.Strategy
 {
     public class AscendingSorting : Sorting
     {

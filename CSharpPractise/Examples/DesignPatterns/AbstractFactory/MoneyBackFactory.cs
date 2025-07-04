@@ -1,4 +1,4 @@
-﻿namespace CSharpConcepts.DesignPatterns.AbstractFactory
+﻿namespace CSharpPractise.DesignPatterns.AbstractFactory
 {
     public class MoneyBackFactory : CardFactory
     {

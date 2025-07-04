@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpConcepts.Exceptions
+namespace CSharpPractise.Exceptions
 {
     public class MultiCatch
     {

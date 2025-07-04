@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpConcepts.Constructors
+namespace CSharpPractise.Constructors
 {
     public class AB
     {

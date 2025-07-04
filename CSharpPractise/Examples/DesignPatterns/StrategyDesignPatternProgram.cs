@@ -1,6 +1,6 @@
-﻿using CSharpConcepts.DesignPatterns.Strategy;
+﻿using CSharpPractise.DesignPatterns.Strategy;
 using System;
-namespace CSharpConcepts.DesignPatterns
+namespace CSharpPractise.DesignPatterns
 {
     class StrategyDesignPatternProgram
     {

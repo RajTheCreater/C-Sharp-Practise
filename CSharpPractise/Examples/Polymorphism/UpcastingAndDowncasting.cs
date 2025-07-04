@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpConcepts.Polymorphism
+namespace CSharpPractise.Polymorphism
 {
     public class ParentClass
     {

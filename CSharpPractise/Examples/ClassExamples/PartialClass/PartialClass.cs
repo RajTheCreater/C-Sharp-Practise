@@ -33,7 +33,7 @@ namespace CSharpPractise.Examples.ClassExamples.PartialClass
         public static void Main()
         {
             PartialEmployee employee = new PartialEmployee();
-            employee.
+            employee.DisplayEmployeeDetails();
         }
     }
 }

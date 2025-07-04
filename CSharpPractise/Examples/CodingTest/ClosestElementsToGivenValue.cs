@@ -2,7 +2,7 @@
 // a given value
 using System;
 
-namespace CSharpConcepts.CodingTest
+namespace CSharpPractise.CodingTest
 {
    public class ClosestElementsToGivenValue
     {

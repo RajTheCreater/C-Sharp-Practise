@@ -1,4 +1,4 @@
-﻿namespace CSharpConcepts.DesignPatterns.Factory
+﻿namespace CSharpPractise.DesignPatterns.Factory
 {
     public abstract class CreditCard
     {
